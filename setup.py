@@ -27,7 +27,7 @@ setup(
         'Topic :: Software Development :: Testing'
     ],
     install_requires=[
-        'Django>=1.3',
+        'Django>=1.2.7',
         'coverage>=3.4',
         'pylint>=0.23',
     ],
